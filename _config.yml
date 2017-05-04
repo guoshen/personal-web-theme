@@ -36,5 +36,6 @@ exclude:
   - bower_components/
   - node_modules/
   - bower.json
+  - Readme.md
 sass: 
   sass-dir: _sass

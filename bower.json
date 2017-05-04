@@ -17,6 +17,7 @@
   "dependencies": {
     "bootstrap.ui": "^2.3.3",
     "ekko-lightbox": "^5.1.1",
-    "tether": "^1.4.0"
+    "tether": "^1.4.0",
+    "font-awesome": "^4.7.0"
   }
 }
