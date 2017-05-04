@@ -1,0 +1,22 @@
+{
+  "name": "personal-web",
+  "homepage": "https://github.com/guoshen/personal-web-theme",
+  "authors": [
+    "Tony Guo <tonyguo526@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap.ui": "^2.3.3",
+    "ekko-lightbox": "^5.1.1",
+    "tether": "^1.4.0"
+  }
+}
