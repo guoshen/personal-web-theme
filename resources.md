@@ -8,7 +8,7 @@ permalink: /contact/
 <section class="section-header">
     <div class="container">
         <h2>Contact Me</h2>
-        <p>If you have some tips or comments about my work or just about programming in general, please do not hesitate to contact me! I always want to learn and improve. If you want to request a copy of my CV/Resume, please do so! Just fill in the form below. </p>
+        <p>Learning is a  </p>
     </div><!-- .container -->
 </section>
 

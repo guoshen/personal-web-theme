@@ -7,3 +7,9 @@
 <!-- Bootstrap UI JS -->
 <script src="{{base}}/scripts/bootstrap-ui.min.js"></script>
 <script src="{{base}}/scripts/ekko-lightbox.min.js"></script>
+<script>
+    $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+    event.preventDefault();
+    $(this).ekkoLightbox();
+});
+</script>
