@@ -5,9 +5,6 @@
 layout: main
 ---
 
-
-
-
 <section class="section-header">
    <div class="container">
       <h2>About Me</h2>
@@ -77,37 +74,6 @@ layout: main
    </div>
    </div>
 </div>
-    <div class="row">
-    <div class="container">
-        <h2>Projects Coming Soon</h2>
-    <div class="col-md-3">
-        <div class="card">
-            <div class="card-height-indicator"></div>
-                <div class="card-content">
-                <div class="card-image">
-                <a data-toggle="lightbox" data-title="Shop.NET <a href='https://github.com/guoshen/shop.NET'><i class='fa fa-github' aria-hidden='true'></i></a>" data-footer="Shop.NET is going to be an open source ecommerce website for where users can sell their personal items. It will be built using the ASP.NET Framework. I'm excited to use Google Analytics and HighCharts to create stats for the seller dashboard. Stay tuned for updates! ">
-                <img src="{{base}}/images/shop-icon.png" class="img-responsive" >
-                </a>
-                </div>
-                <h4 class="card-image-headline">Shop.NET</h4>
-            </div>
-        </div>
-   </div>
-    <div class="col-md-3">
-        <div class="card">
-            <div class="card-height-indicator"></div>
-                <div class="card-content">
-                <div class="card-image">
-                <a data-toggle="lightbox" data-title="Priority Calendar <a href='https://github.com/guoshen/prioritycal'><i class='fa fa-github' aria-hidden='true'></i></a>" data-footer="Priority Calendar is an web application that helps users keep track of daily events and tasks. Users will be able to integrate events from services like Google Calendar. Users will be able tag events and share events with peers via services like Facebook. This is effort to learn more about the Google and Facebook APIs, as well as use the Express framework.   ">
-                <img src="{{base}}/images/calendar-icon.png" class="img-responsive" >
-                </a>
-                </div>
-                <h4 class="card-image-headline">Priority Calendar</h4>
-            </div>
-        </div>
-   </div>
-    </div>
-    </div>
 </div>
         
 
