@@ -11,7 +11,7 @@ layout: main
 <section class="section-header">
    <div class="container">
       <h2>About Me</h2>
-      <p>I'm a recent graduate of the Electrical and Computer Engineering program at University of Toronto. Software Development
+      <p>I'm a graduate of the Electrical and Computer Engineering program at University of Toronto. Software Development
          is my absolute passion. I love exploring and learning new software technologies and building my own side projects.
          You can a few of my projects below. You can also check out my <a href="https://github.com/guoshen">Github</a>
       </p>
