@@ -1,0 +1,3 @@
+ls -a 
+
+http-server .
