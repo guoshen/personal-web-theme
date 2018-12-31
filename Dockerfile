@@ -1,14 +1,10 @@
-FROM jekyll/jekyll:latest
+FROM node:8.15.0-alpine
 
-ADD / /srv
-RUN chown -R jekyll:jekyll /srv
-WORKDIR /srv
-RUN find . -type d -exec chmod +rx {} \;
-RUN jekyll build 
+ADD _site /site
 
 
 RUN npm install -g http-server
 
-EXPOSE 8080
+EXPOSE 80
 
-CMD ["http-server", "./_site"  ]
+CMD ["http-server", "./site",  "-p", "80"  ]
